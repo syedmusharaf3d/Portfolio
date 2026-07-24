@@ -15,10 +15,10 @@ const PROJECTS_3D = [
     software: ["Autodesk Maya", "Substance Painter"],
     description: "A faithful recreation of the 1989 Nintendo Game Boy, modeled in Maya and textured in Substance Painter — Modeled in Maya and textured in Substance Painter, focusing on realistic material aging with scratches, dents, fingerprints, worn plastic, and a weathered monochrome LCD to capture the look of a well-used vintage handheld.",
     images: [
-      "images/GB1 (1).jpg",
-      "images/GB1 (2).jpg",
-      "images/GB1 (3).jpg",
-      "images/GB1 (4).jpg"
+      "Images/GB1 (1).jpg",
+      "Images/GB1 (2).jpg",
+      "Images/GB1 (3).jpg",
+      "Images/GB1 (4).jpg"
     ]
   },
   {
