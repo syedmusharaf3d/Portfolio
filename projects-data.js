@@ -85,11 +85,11 @@ const PROJECTS_3D = [
     software: ["Autodesk Maya", "Vray"],
     description: "Abu Dhabi Police – Interactive Game Launch Exhibition Stand Designed for an Abu Dhabi Police public engagement campaign, this interactive exhibition stand was created to promote a game launch experience within a modern retail environment. The project focuses on clean architectural design, immersive visitor interaction, and technology-driven engagement while maintaining the client's official branding and identity.",
     images: [
-      "images/Stand1.png",
-      "images/Stand2.png",
-      "images/Gamel1.jpeg",
-      "images/Gamel2.jpeg",
-      "images/Gamel3.jpeg"
+      "Images/Stand1.png",
+      "Images/Stand2.png",
+      "Images/Gamel1.jpeg",
+      "Images/Gamel2.jpeg",
+      "Images/Gamel3.jpeg"
     ]
   }
 ];
