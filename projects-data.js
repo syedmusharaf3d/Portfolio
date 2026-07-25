@@ -73,7 +73,7 @@ const PROJECTS_3D = [
       "Images/Escaperoom1.png",
       "Images/Escaperoom2.png",
       "Images/Escaperoomside.png",
-      "Images/Escaproomtop.png",
+      "Images/Escapetop.png",
       "Images/Escaproom4.png"
 
     ]
