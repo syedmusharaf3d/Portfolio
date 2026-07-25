@@ -117,7 +117,7 @@ a{ color:inherit; text-decoration:none; }
   position: relative;
   border-radius: 28px;
   overflow: hidden;
-  min-height: 520px;
+  min-height: 440px;
   background: var(--glass);
   -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(160%);
   backdrop-filter: blur(var(--glass-blur)) saturate(160%);
@@ -150,9 +150,9 @@ a{ color:inherit; text-decoration:none; }
 }
 
 /* Left column: photo, contact */
-.hero-left{ display:flex; flex-direction:column; gap: 20px; width: 190px; flex-shrink: 0; }
+.hero-left{ display:flex; flex-direction:column; gap: 20px; width: 220px; flex-shrink: 0; }
 .hero-photo{
-  width: 130px; height: 170px;
+  width: 170px; height: 220px;
   border-radius: 20px;
   background: linear-gradient(160deg, rgba(255,255,255,0.75), rgba(255,255,255,0.30));
   border: 1px solid rgba(255,255,255,0.8);

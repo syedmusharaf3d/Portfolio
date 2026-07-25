@@ -26,7 +26,7 @@ const PROJECTS_3D = [
     title: "The Bloody Sword ",
     category: "Game Ready Asset",
     software: ["Autodesk Maya","Substance Painter","ZBrush"],
-    description: "A semi-stylized fantasy sword created as a personal project to demonstrate weapon modeling, sculpting, and PBR texturing workflows with a realistic visual style. — what it was for, your role, and the approach you took.",
+    description: "A semi-stylized fantasy sword created as a personal project to demonstrate weapon modeling, sculpting, and PBR texturing workflows with a realistic visual style.",
     images: [
       "Images/SD (1).png",
       "Images/SD (2).png",
