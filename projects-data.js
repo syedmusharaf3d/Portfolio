@@ -28,61 +28,68 @@ const PROJECTS_3D = [
     software: ["Autodesk Maya","Substance Painter","ZBrush"],
     description: "A semi-stylized fantasy sword created as a personal project to demonstrate weapon modeling, sculpting, and PBR texturing workflows with a realistic visual style. — what it was for, your role, and the approach you took.",
     images: [
-      "images/SD (1).png",
-      "images/SD (2).png",
-      "images/SD (3).png",
-      "images/SD (4).png",
-      "images/SD (5).png"
+      "Images/SD (1).png",
+      "Images/SD (2).png",
+      "Images/SD (3).png",
+      "Images/SD (4).png",
+      "Images/SD (5).png"
     ]
   },
   {
     id: "cgi-03",
-    title: "Escape from the Depths",
-    category: "Unreal Engine",
-    software: ["Qixel Bridge", "Unreal Engine"],
-    description: "Escape from the Depths is a UE5 environment project featuring Megascans assets and a Mixamo character. Set within a dark cave system, the project follows a simple escape narrative, culminating in a dramatic emergence into a naturally lit cavern.",
+    title: "Abu Dhabi Civil Defence",
+    category: "Vehicle Model",
+    software: ["Autodesk Maya","Substance Painter"],
+    description: " Commercial automotive visualization created for an official government project in Abu Dhabi. This project showcases my work in 3D modeling, PBR texturing, lighting, rendering, and final presentation while preserving the original vehicle design and official branding.  Disclaimer: This work is displayed solely for portfolio purposes to demonstrate my technical skills. All trademarks, logos, decals, and official Abu Dhabi Police branding are the property of their respective owners.",
     images: [
-      "images/DC (1).jpg",
-      "images/DC (2).jpg",
-      "images/DC (3).jpg",
-      "images/DC (4).jpg",
-      "images/DC (5).jpg"
+      "Images/Civildefenceposter.jpg",
+      "Images/Ariel.png",
+      "Images/Atigo.png",
+      "Images/Silverado.png",
+      "Images/Man truck.png",
+      "Images/Scania.png",
+
     ]
   },
   {
     id: "cgi-04",
-    title: "Stylized Japanese Bell",
-    category: "CGI",
-    software: ["Autodesk Maya","Substance Painter","ZBrush"],
-    description: "A stylized Japanese Bell created by modeling and UV unwrapping in Maya, sculpting in ZBrush, texturing in Substance Painter, and rendering in Maya. The workflow combines detailed sculpting with hand-painted materials for a polished final presentation.",
+    title: "Abu Dhabi Police Patrol",
+    category: "Vehicle Model",
+    software: ["Autodesk Maya","Substance Painter"],
+    description: "Abu Dhabi Police Vehicle Visualization 3D modeling, texturing, lighting, rendering, and presentation completed as part of a government project in Abu Dhabi. Shared for portfolio purposes only. All official branding, graphics, and intellectual property remain the property of the respective government authority.",
     images: [
-      "images/JB (1).jpg",
-      "images/JB (2).jpg",
-      "images/JB (3).jpg"
+      "Images/Policeposter.jpg",
+      "Images/Abu Dhabi police.png",
+      "Images/Policepatrol.png"
     ]
   },
   {
     id: "cgi-05",
-    title: "Project 05 — add your title",
+    title: "Nissan Escape Room",
     category: "Exhibition Design",
-    software: ["Unreal Engine", "ZBrush"],
-    description: "Add a short description of this project — what it was for, your role, and the approach you took.",
+    software: ["Autodesk Maya", "Vray"],
+    description: "Nissan × UAE Ministry of Economy – Escape Room Exhibition Stand Designed and visualized an interactive exhibition experience featuring immersive product displays, branded engagement zones, and premium architectural visualization for a government event.",
     images: [
-      "images/cgi-05-1.jpg",
-      "images/cgi-05-2.jpg",
-      "images/cgi-05-3.jpg"
+      "Images/Escaperoom1.png",
+      "Images/Escaperoom2.png",
+      "Images/Escaperoomside.png",
+      "Images/Escaproomtop.png",
+      "Images/Escaproom4.png"
+
     ]
   },
   {
     id: "cgi-06",
-    title: "Project 06 — add your title",
-    category: "3D Event Design",
-    software: ["Autodesk Maya", "Unreal Engine"],
-    description: "Add a short description of this project — what it was for, your role, and the approach you took.",
+    title: "Abu Dhabi Police Game Stand",
+    category: "Stand Design",
+    software: ["Autodesk Maya", "Vray"],
+    description: "Abu Dhabi Police – Interactive Game Launch Exhibition Stand Designed for an Abu Dhabi Police public engagement campaign, this interactive exhibition stand was created to promote a game launch experience within a modern retail environment. The project focuses on clean architectural design, immersive visitor interaction, and technology-driven engagement while maintaining the client's official branding and identity.",
     images: [
-      "images/cgi-06-1.jpg",
-      "images/cgi-06-2.jpg",
-      "images/cgi-06-3.jpg"
+      "images/Stand1.png",
+      "images/Stand2.png",
+      "images/Gamel1.jpeg",
+      "images/Gamel2.jpeg",
+      "images/Gamel3.jpeg"
     ]
   }
 ];
