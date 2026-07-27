@@ -40,7 +40,7 @@ const PROJECTS_3D = [
     title: "Abu Dhabi Civil Defence",
     category: "Vehicle Model",
     software: ["Autodesk Maya","Substance Painter"],
-    description: " Commercial automotive visualization created for an official government project in Abu Dhabi. This project showcases my work in 3D modeling, PBR texturing, lighting, rendering, and final presentation while preserving the original vehicle design and official branding.  Disclaimer: This work is displayed solely for portfolio purposes to demonstrate my technical skills. All trademarks, logos, decals, and official Abu Dhabi Police branding are the property of their respective owners.",
+    description: " Commercial automotive visualization created for an official government project in Abu Dhabi. This project showcases my work in 3D modeling, PBR texturing, lighting, rendering, and final presentation while preserving the original vehicle design and official branding.  Disclaimer: This work is displayed solely for portfolio purposes to demonstrate my technical skills. All trademarks, logos, decals, and official Abu Dhabi Civil Defence branding are the property of their respective owners.",
     images: [
       "Images/Civildefenceposter.jpg",
       "Images/Ariel.png",
@@ -56,7 +56,7 @@ const PROJECTS_3D = [
     title: "Abu Dhabi Police Patrol",
     category: "Vehicle Model",
     software: ["Autodesk Maya","Substance Painter"],
-    description: "Abu Dhabi Police Vehicle Visualization 3D modeling, texturing, lighting, rendering, and presentation completed as part of a government project in Abu Dhabi. Shared for portfolio purposes only. All official branding, graphics, and intellectual property remain the property of the respective government authority.",
+    description: "Abu Dhabi Police Vehicle Visualization 3D modeling, texturing, lighting, rendering, and presentation completed as part of a government project in Abu Dhabi. Shared for portfolio purposes only. All official branding, graphics, and intellectual property remain the property of Abu dhabi police and the respective government authority.",
     images: [
       "Images/Policeposter.jpg",
       "Images/Abu Dhabi police.png",
@@ -68,7 +68,7 @@ const PROJECTS_3D = [
     title: "Nissan Escape Room",
     category: "Exhibition Design",
     software: ["Autodesk Maya", "Vray"],
-    description: "Nissan × UAE Ministry of Economy – Escape Room Exhibition Stand Designed and visualized an interactive exhibition experience featuring immersive product displays, branded engagement zones, and premium architectural visualization for a government event.",
+    description: "Nissan × UAE Ministry of Economy – Escape Room Exhibition Stand Designed and visualized an interactive exhibition experience featuring immersive product displays, branded engagement zones, and premium architectural visualization for a government event. this showcase only for portfolio, all the brandind, belongs to the respetive owners ",
     images: [
       "Images/Escaperoom1.png",
       "Images/Escaperoom2.png",
@@ -83,7 +83,7 @@ const PROJECTS_3D = [
     title: "Abu Dhabi Police Game Stand",
     category: "Stand Design",
     software: ["Autodesk Maya", "Vray"],
-    description: "Abu Dhabi Police – Interactive Game Launch Exhibition Stand Designed for an Abu Dhabi Police public engagement campaign, this interactive exhibition stand was created to promote a game launch experience within a modern retail environment. The project focuses on clean architectural design, immersive visitor interaction, and technology-driven engagement while maintaining the client's official branding and identity.",
+    description: "Abu Dhabi Police  Interactive Game Launch Exhibition Stand Designed for an Abu Dhabi Police public engagement campaign, this interactive exhibition stand was created to promote a game launch experience within a modern retail environment. The project focuses on clean architectural design, immersive visitor interaction, and technology driven engagement while maintaining the client's official branding and identity.",
     images: [
       "Images/Stand1.png",
       "Images/Stand2.png",
