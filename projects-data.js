@@ -28,11 +28,11 @@ const PROJECTS_3D = [
     software: ["Autodesk Maya","Substance Painter","ZBrush"],
     description: "A semi-stylized fantasy sword created as a personal project to demonstrate weapon modeling, sculpting, and PBR texturing workflows with a realistic visual style.",
     images: [
-      "Images/SD (1).png",
-      "Images/SD (2).png",
-      "Images/SD (3).png",
-      "Images/SD (4).png",
-      "Images/SD (5).png"
+      "Images/SD (1).webp",
+      "Images/SD (2).webp",
+      "Images/SD (3).webp",
+      "Images/SD (4).webp",
+      "Images/SD (5).webp"
     ]
   },
   {
@@ -70,7 +70,7 @@ const PROJECTS_3D = [
     software: ["Autodesk Maya", "Vray"],
     description: "Nissan × UAE Ministry of Economy – Escape Room Exhibition Stand Designed and visualized an interactive exhibition experience featuring immersive product displays, branded engagement zones, and premium architectural visualization for a government event. this showcase only for portfolio, all the brandind, belongs to the respetive owners ",
     images: [
-      "Images/Escaperoom1.png",
+      "Images/Escaperoom1.webp",
       "Images/Escaperoom2.png",
       "Images/Escaperoomside.png",
       "Images/Escapetop.png",
@@ -85,7 +85,7 @@ const PROJECTS_3D = [
     software: ["Autodesk Maya", "Vray"],
     description: "Abu Dhabi Police  Interactive Game Launch Exhibition Stand Designed for an Abu Dhabi Police public engagement campaign, this interactive exhibition stand was created to promote a game launch experience within a modern retail environment. The project focuses on clean architectural design, immersive visitor interaction, and technology driven engagement while maintaining the client's official branding and identity.",
     images: [
-      "Images/Stand1.png",
+      "Images/Stand1.webp",
       "Images/Stand2.png",
       "Images/Gamel1.jpeg",
       "Images/Gamel2.jpeg",
